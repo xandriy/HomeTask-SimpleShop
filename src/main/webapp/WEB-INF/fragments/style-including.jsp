@@ -1,0 +1,2 @@
+<link type="text/css" href="${pageContext.request.contextPath}/resources/css/style.css" rel="stylesheet"/>
+<link type="text/css" href="${pageContext.request.contextPath}/resources/css/tiles-style.css" rel="stylesheet"/>

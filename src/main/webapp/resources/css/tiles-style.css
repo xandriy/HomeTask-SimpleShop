@@ -1,0 +1,48 @@
+header{
+            background-color: darkslategrey;
+            height: 100px;
+            margin-left: 10%;
+            margin-right: 10%;
+            color: white;
+            font-size: 60px;
+            text-align: center;
+            padding-top: 20px;
+            text-decoration: none;
+        }
+        
+        .headerNavLinks{
+        	color:whitesmoke;
+        }
+        
+        nav{
+            background-color: darkgoldenrod;
+            height: 70px;
+            margin-left: 10%;
+            margin-right: 10%;
+            margin-top: 10px;
+            display: flex;
+            justify-content: space-around;
+        }
+        
+        .navi{
+            height: 42px;
+            width: 120px;
+            color: floralwhite;
+            background-color: goldenrod;
+            border-radius: 5px;
+            font-size: 34px;
+            text-align: center;
+            margin: 10px 0;
+            padding-top: 8px;
+            text-decoration: none;
+        } 
+ 
+ footer{
+            height: 100px;
+            margin: 0 10%;
+            background-color: teal;
+            color: white;
+            font-size: 60px;
+            text-align: center;
+            padding-top: 20px;
+        }
